@@ -1,5 +1,5 @@
 <img src="src/assets/icon.png" align="left" />
-# ![BitMaze icon](https://raw.github.com/julianmaster/BitMaze/master/src/assets/icon.png) BitMaze
+# BitMaze
 
 > BitMaze is a maze game use only a **1x1** pixel (upscaled) screen display. This game is for the [1 bit jam](https://itch.io/jam/bit-jam)
 
