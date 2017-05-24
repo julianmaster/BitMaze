@@ -1,4 +1,5 @@
 <img src="src/assets/icon.png" align="right" />
+
 # BitMaze
 
 > BitMaze is a maze game using only a **1x1** pixel (upscaled) screen display. This game is for the [Bit jam](http://itch.io/jam/bit-jam) hosted by [Daniel Linssen](http://managore.itch.io/)
